@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sachin.oop.cw</groupId>
-	<artifactId>WebApp</artifactId>
+	<artifactId>OOP-CW-2021-Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WebApp</name>
 	<description>OOP CW</description>
